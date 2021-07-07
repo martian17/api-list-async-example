@@ -9,4 +9,4 @@ npm init
 node main.js
 ```
 
-All therelevant code is in main.js, so you can give it a look with your favorite text editor
+All the relevant code is in main.js, so you can give it a look with your favorite text editor
