@@ -3,10 +3,11 @@ This example makes get request to a list of urls asynchronously, and returns a r
 
 ## how to run
 ```bash
-git clone https://github.com/martian17/api-list-async-example.git
-cd api-list-async-example
-npm init
-node main.js
+$ git clone https://github.com/martian17/api-list-async-example.git
+$ cd api-list-async-example
+$ npm install
+$ node main.js
 ```
 
 All the relevant code is in main.js, so you can give it a look with your favorite text editor
+
